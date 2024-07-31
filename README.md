@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nuru Amudi</h1>
 <h3 align="center">A passionate Frontend-Backend developer from Tanzania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuru999&label=Profile%20views&color=0e75b6&style=flat" alt="nuru999" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuru999" alt="nuru999" /></a> </p>
-
 - 🔭 I’m currently working on **My online Portfolio**
 
-- 🌱 I’m currently learning **ICDL, Front-end and Back-end Development**
+- 🌱 I’m currently learning **ICDL, Front-end And Back-end**
 
 - 👯 I’m looking to collaborate on **Any Projects that may come my way**
+
+- 🤝 I’m looking for help with **Backend Development**
 
 - 💬 Ask me about **react,Js, Mongo Db, Flask**
 
@@ -17,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://x.com/nuruuu420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nuruuu420" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nuru-ayubu-3237522b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nuru-ayubu-3237522b7" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/___kunta____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/___kunta____/" height="30" width="40" /></a>
 </p>
@@ -27,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuru999&show_icons=true&locale=en&layout=compact" alt="nuru999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuru999&show_icons=true&locale=en" alt="nuru999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuru999&" alt="nuru999" /></p>
