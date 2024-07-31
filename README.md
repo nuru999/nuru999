@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nuru Amudi</h1>
+<h1 align="center">Hi 😊👋🏽, I'm Nuru Amudi</h1>
 <h3 align="center">A passionate Frontend-Backend developer from Tanzania</h3>
 
 - 🔭 I’m currently working on **My online Portfolio**
