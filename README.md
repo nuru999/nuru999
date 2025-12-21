@@ -1,26 +1,60 @@
-<h1 align="center">Hi 😊👋🏽, I'm Nuru Amudi</h1>
-<h3 align="center">A passionate Frontend-Backend developer from Tanzania</h3>
+<h1 align="center">Hi 👋🏽, I'm Nuru Amudi</h1>
+<h3 align="center">
+Software Engineer & Cybersecurity Student | Frontend & Backend Developer
+</h3>
 
-- 🔭 I’m currently working on **CYBER SECURITY COURSE CERT & DIPLOMA**
-
-- 🌱 I’m currently learning **CYBER SECURITY**
-
-- 👯 I’m looking to collaborate on **Any Projects that may come my way**
-
-- 💬 Ask me about **react,Js, Mongo Db, Flask**
-
-- 📫 How to reach me **muhammadnuru85@gmail.com & tazmaniandevil9402@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/nuruuu420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nuruuu420" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nuru-ayubu-3237522b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nuru-ayubu-3237522b7" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/___kunta____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/___kunta____/" height="30" width="40" /></a>
+<p align="center">
+Building web applications, strengthening systems, and learning how to break things ethically to make them safer.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuru999&show_icons=true&locale=en&layout=compact" alt="nuru999" /></p>
+### 🚀 About Me
+- 💻 Trained **Software Engineer** with hands-on frontend & backend experience  
+- 🔐 Currently pursuing **Cybersecurity Certificate & Diploma**  
+- 🌱 Strong foundation from **ICDL** and real-world development projects  
+- 🤝 Open to collaborations, internships, and entry-level tech roles  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuru999&show_icons=true&locale=en" alt="nuru999" /></p>
+---
+
+### 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind  
+**Backend:** Python (Flask), Node.js, PHP  
+**Databases:** MySQL, MongoDB, PostgreSQL, SQLite  
+**Other:** Git, GitHub, Linux, REST APIs, TypeScript  
+
+---
+
+### 💬 Ask Me About
+Web development • Databases • Flask • JavaScript • Cybersecurity basics
+
+---
+
+### 📫 Reach Me
+- 📧 Email: **muhammadnuru85@gmail.com**
+- 🌍 GitHub: https://github.com/nuru999
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://x.com/nuruuu420" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/nuru-ayubu-3237522b7" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/___kunta____/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuru999&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<im
