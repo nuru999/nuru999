@@ -1,13 +1,11 @@
 <h1 align="center">Hi 😊👋🏽, I'm Nuru Amudi</h1>
 <h3 align="center">A passionate Frontend-Backend developer from Tanzania</h3>
 
-- 🔭 I’m currently working on **My online Portfolio**
+- 🔭 I’m currently working on **CYBER SECURITY COURSE CERT_DIPLOMA**
 
-- 🌱 I’m currently learning **ICDL, Front-end And Back-end**
+- 🌱 I’m currently learning **CYBER SECURITY**
 
 - 👯 I’m looking to collaborate on **Any Projects that may come my way**
-
-- 🤝 I’m looking for help with **Backend Development**
 
 - 💬 Ask me about **react,Js, Mongo Db, Flask**
 
