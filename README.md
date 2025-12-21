@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😊👋🏽, I'm Nuru Amudi</h1>
 <h3 align="center">A passionate Frontend-Backend developer from Tanzania</h3>
 
-- 🔭 I’m currently working on **CYBER SECURITY COURSE CERT_DIPLOMA**
+- 🔭 I’m currently working on **CYBER SECURITY COURSE CERT & DIPLOMA**
 
 - 🌱 I’m currently learning **CYBER SECURITY**
 
