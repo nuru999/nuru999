@@ -50,11 +50,3 @@ Web development • Databases • Flask • JavaScript • Cybersecurity basics
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuru999&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<im
