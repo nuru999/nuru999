@@ -11,9 +11,7 @@
 I build web applications, explore cybersecurity, and enjoy understanding how systems work — and how to secure them.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nuru999&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
