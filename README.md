@@ -100,9 +100,7 @@ A **Flask + MySQL** application for managing student data and records.
 
 ---
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/nuru999/nuru999/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
