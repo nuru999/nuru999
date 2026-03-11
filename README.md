@@ -10,8 +10,7 @@ Building web applications, strengthening systems, and learning how to break thin
 ---
 
 ### 🚀 About Me
-- 💻 Trained **Software Engineer** with hands-on frontend & backend experience  
-- 🔐 Currently pursuing **Cybersecurity Certificate & Diploma**  
+- 💻 Trained **Software Engineer** with hands-on frontend & backend experience   
 - 🌱 Strong foundation from **ICDL** and real-world development projects  
 - 🤝 Open to collaborations, internships, and entry-level tech roles  
 
