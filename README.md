@@ -78,15 +78,6 @@ A **Flask + MySQL** application for managing student data and records.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nuru999&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuru999&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
